@@ -1,5 +1,5 @@
 <p align="center">
-  Artificial intelligence &amp; Machine Learning</em><br>
+  Artificial intelligence &amp; Machine Learning<br>
   <code>Python</code> · <code>Scikit-Learn</code> · <code>Pandas</code> · <code>SQL</code> &nbsp;·&nbsp; 📍 Brazil
 </p>
 
@@ -12,6 +12,6 @@
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-alpha-nine-59.vercel.app/api?username=zjpza&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=3fb950">
-  <img height="180em" src="https://github-readme-stats-alpha-nine-59.vercel.app/api/top-langs/?username=zjpza&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=zjpza&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=3fb950&rank_icon=github&custom_title=Jo%C3%A3o%27s+GitHub+Stats&disable_animations=true&number_format=long">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zjpza&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=jupyter%20notebook">
 </div>
