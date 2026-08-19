@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<h1 align="center">João Pedro Zavanela Andreu</h1>
+<h1 align="center">JPZA</h1>
 <p align="center">
-  <em>Inteligência Artificial &amp; Machine Learning</em><br>
+  <em>Artificial intelligence &amp; Machine Learning</em><br>
   <code>Python</code> · <code>Scikit-Learn</code> · <code>Pandas</code> · <code>SQL</code> &nbsp;·&nbsp; 📍 SP, Brasil
 </p>
 
