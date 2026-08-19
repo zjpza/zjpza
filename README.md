@@ -1,6 +1,6 @@
 <p align="center">
   <em>Artificial intelligence &amp; Machine Learning</em><br>
-  <code>Python</code> · <code>Scikit-Learn</code> · <code>Pandas</code> · <code>SQL</code> &nbsp;·&nbsp; 📍 SP, Brasil
+  <code>Python</code> · <code>Scikit-Learn</code> · <code>Pandas</code> · <code>SQL</code> &nbsp;·&nbsp; 📍 Brazil
 </p>
 
 <p align="center">
