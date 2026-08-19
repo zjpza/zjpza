@@ -1,5 +1,5 @@
 <p align="center">
-  <em>Artificial intelligence &amp; Machine Learning</em><br>
+  Artificial intelligence &amp; Machine Learning</em><br>
   <code>Python</code> · <code>Scikit-Learn</code> · <code>Pandas</code> · <code>SQL</code> &nbsp;·&nbsp; 📍 Brazil
 </p>
 
