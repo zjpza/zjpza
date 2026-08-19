@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<h1 align="center">JPZA</h1>
 <p align="center">
   <em>Artificial intelligence &amp; Machine Learning</em><br>
   <code>Python</code> · <code>Scikit-Learn</code> · <code>Pandas</code> · <code>SQL</code> &nbsp;·&nbsp; 📍 SP, Brasil
